@@ -2,4 +2,4 @@
 
 Kotlin Android Tutorial
 
-<img width="372" alt="iPhone_12" src="https://github.com/YamamotoDesu/Perspective/blob/main/PerspectiveExample/Perspective.gif">
+<img width="372" alt="Android" src="https://github.com/YamamotoDesu/AgeinMinutes/blob/master/app/src/main/java/com/codewithkyo/ageinminutes/ageinminutes.gif">
