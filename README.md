@@ -1,4 +1,4 @@
-# **[AgeInMinutes](https://www.youtube.com/watch?v=uRyvNKRkwbs&t=24046s)** 
+# **[AgeInMinutes](https://www.youtube.com/watch?v=uRyvNKRkwbs&t=19928s)** 
 
 Kotlin Android Tutorial
 
